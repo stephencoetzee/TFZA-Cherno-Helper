@@ -1,5 +1,5 @@
-  layout: page
-  title: "General"
-  permalink: /Rules/General
+layout: page
+title: "General"
+permalink: /Rules/General
 
-  # General
+# General

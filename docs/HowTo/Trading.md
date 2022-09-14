@@ -1,5 +1,5 @@
-  layout: page
-  title: "Trading"
-  permalink: /HowTo/Trading
+layout: page
+title: "Trading"
+permalink: /HowTo/Trading
 
-  # Trading
+# Trading

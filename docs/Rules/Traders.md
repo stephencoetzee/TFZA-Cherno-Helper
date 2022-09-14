@@ -1,5 +1,5 @@
-  layout: page
-  title: "Traders"
-  permalink: /Rules/Traders
+layout: page
+title: "Traders"
+permalink: /Rules/Traders
 
-  # Traders
+# Traders

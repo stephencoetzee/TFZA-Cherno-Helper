@@ -1,5 +1,5 @@
-  layout: page
-  title: "Snoop"
-  permalink: /Trading/Snoop
+layout: page
+title: "Snoop"
+permalink: /Trading/Snoop
 
-  # Snoop
+# Snoop

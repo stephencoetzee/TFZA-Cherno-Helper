@@ -1,5 +1,5 @@
-  layout: page
-  title: "BlackMarket"
-  permalink: /Trading/BlackMarket
+layout: page
+title: "BlackMarket"
+permalink: /Trading/BlackMarket
 
-  # BlackMarket
+# BlackMarket

@@ -11,11 +11,11 @@ function newpage() {
   target=${1}
   title=${2}
   cat <<EOF
-  layout: page
-  title: "${title}"
-  permalink: /${target}/${title}
+layout: page
+title: "${title}"
+permalink: /${target}/${title}
 
-  # ${title}
+# ${title}
 EOF
 }
 

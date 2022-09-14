@@ -1,5 +1,5 @@
-  layout: page
-  title: "Raiding"
-  permalink: /Rules/Raiding
+layout: page
+title: "Raiding"
+permalink: /Rules/Raiding
 
-  # Raiding
+# Raiding

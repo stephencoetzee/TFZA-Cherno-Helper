@@ -1,5 +1,5 @@
-  layout: page
-  title: "BaseBuilding"
-  permalink: /HowTo/BaseBuilding
+layout: page
+title: "BaseBuilding"
+permalink: /HowTo/BaseBuilding
 
-  # BaseBuilding
+# BaseBuilding

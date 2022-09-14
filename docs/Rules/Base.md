@@ -1,5 +1,5 @@
-  layout: page
-  title: "Base"
-  permalink: /Rules/Base
+layout: page
+title: "Base"
+permalink: /Rules/Base
 
-  # Base
+# Base

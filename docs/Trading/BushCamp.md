@@ -1,5 +1,5 @@
-  layout: page
-  title: "BushCamp"
-  permalink: /Trading/BushCamp
+layout: page
+title: "BushCamp"
+permalink: /Trading/BushCamp
 
-  # BushCamp
+# BushCamp

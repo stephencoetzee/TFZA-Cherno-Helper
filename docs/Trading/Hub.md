@@ -1,5 +1,5 @@
-  layout: page
-  title: "Hub"
-  permalink: /Trading/Hub
+layout: page
+title: "Hub"
+permalink: /Trading/Hub
 
-  # Hub
+# Hub
