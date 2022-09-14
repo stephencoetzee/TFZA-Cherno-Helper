@@ -1,5 +1,8 @@
-layout: page
-title: "HowTo"
-permalink: /HowTo
+#HowTo
 
-[Base Building](BaseBuilding.md)
+[BaseBuilding](BaseBuilding.md)
+[Missions](Missions.md)
+[Raiding](Raiding.md)
+[ToxicZones](ToxicZones.md)
+[Trading](Trading.md)
+[Transport](Transport.md)
