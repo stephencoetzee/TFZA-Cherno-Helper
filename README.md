@@ -1,5 +1,5 @@
-# TFZA-Cherno-Helper
-The Fallen ZA - Cherno - Helper
+# TFZA-Helper
+The Fallen ZA Helper
 
 [HowTo](HowTo)
 
